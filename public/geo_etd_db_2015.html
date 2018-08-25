@@ -14,7 +14,10 @@
 	    <script defer src="/__/firebase/5.3.0/firebase-storage.js"></script>
 	    <!-- initialize the SDK after all desired features are loaded -->
 	    <script defer src="/__/firebase/init.js"></script>
-	    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+	    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.0/jquery-confirm.min.css">
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.0/jquery-confirm.min.js"></script>
 
 		<link rel="stylesheet" href="../css/material.css">
 		<script src="../js/material.js"></script>
@@ -47,6 +50,11 @@
 				border-width: 5px;
 				background-color: #4d5bd1;
 				color: #fff;
+			}
+			.jconfirm-box{
+				width : 30%;
+				height: 30%;
+				position:center;
 			}
 		</style>
 	</head>
@@ -169,13 +177,7 @@
  				 });
 			});
 
-			//for delete button 
-			 function Delete(){
-
-			    var key = document.getElementById("txt_delete").value;
-			    firebase.database().ref().child('2015').child(key).remove();
-			    
-    			}
+			
 
     		//for create button 
     		 function Create(){
@@ -242,6 +244,33 @@
 
 
 		</script>
+		<script type="text/javascript">
+
+		$('#btn_delete').on('click' , function(){
+			 var key = $('#txt_delete').val();
+
+			$.confirm({
+		    title: 'Confirm!',
+		    content: 'Are you sure to delete ID-' + key ,
+		    buttons: {
+		        confirm: function () {
+		           // $.alert('Confirmed!');
+		          
+					firebase.database().ref().child('2015').child(key).remove();
+					$.alert(key + " delete successfully!");		
+					
+		        },
+		        cancel: function () {
+		            $.alert('Canceled!');
+		        },
+		       
+		    }
+		});
+			});
+	
+	
+	
+</script> 
 
 	</body>
 </html>
