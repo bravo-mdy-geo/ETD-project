@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "bravo-mdy-geo-etd-project"
+    "default": "bravo-mdy-geo-etd-project",
+    "create staging etd-db-test-dev2": "etd-db-test-dev2"
   }
 }
