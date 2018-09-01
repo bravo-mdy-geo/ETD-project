@@ -1,14 +1,13 @@
 ## Electronic Thesis and Dissertation
-Director - **U Ravi Chhabra (CEO of GMIT)** &nbsp;
-Supervisor - **Dr. Ei Ei Mon (Associated Professor of Computer University(Mdy))** &nbsp;
-Presented by - &nbsp;
-            Ma Ei Po Po Aung (Test & Doc) &nbsp;
-            Ma April Su (UI/UX) &nbsp;
-            Ma Myo Myo (Dev) &nbsp;
-            Ma Htet Htet Htun (Dev) &nbsp;
-            Ma Su Sandi Myint Naing (Test & Doc)&nbsp;
-            Ma Shun Lei Nadi Moe (UI/UX) &nbsp;
-
+Director - **U Ravi Chhabra (CEO of GMIT)** <br/>
+Supervisor - **Dr. Ei Ei Mon (Associated Professor of Computer University(Mdy))** <br/>
+Presented by -<br/>
+            Ma Ei Po Po Aung (Test & Doc)<br/>
+            Ma April Su (UI/UX)<br/>
+            Ma Myo Myo (Dev)<br/>
+            Ma Htet Htet Htun (Dev) <br/>
+            Ma Su Sandi Myint Naing (Test & Doc)<br/>
+            Ma Shun Lei Nadi Moe (UI/UX) <br/>
 ## Abstract
 - Electronic Thesis and Dissertation System is a work submitted in support of candidature for a doctorate or master’s degree.
 - Electronic version of theses and dissertations are called ETDs. This system is kind of Education website.
