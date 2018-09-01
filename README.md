@@ -54,17 +54,17 @@ Project ID  	**_Geo Mandalar Invertment & Technology Co.,Ltd Internship_**
 - The aims of our ETD project is to save time and energy, to reduce paper works and familiar with electronic library.
 
 1.2	**Background of the System** <br/><br/>
- 1.2.1**What is firebase?**
-	- Firebase is a platform that makes developing android apps or web app easier.
-	- It is owned by Google and is easy to Integrate to projects
-	- It combines Database, Authentication, Storage, Hosting, Functions.
-	- Database – store data as a tree
-	- Authentication - Use firebase as a database to manage users
-	- Hosting – Offer lightweight configuration options for building web apps. We can easily rewrite URLs for client-side routing or set up custom headers.
-	- Storage - Store data by using firebase as backend such as images
-	- Functions- Automatically run backend code in response to events triggered by Firebase features and HTTPS requests.
+ 1.2.1**What is firebase?** <br />
+- Firebase is a platform that makes developing android apps or web app easier.
+- It is owned by Google and is easy to Integrate to projects
+- It combines Database, Authentication, Storage, Hosting, Functions.
+- Database – store data as a tree
+- Authentication - Use firebase as a database to manage users
+- Hosting – Offer lightweight configuration options for building web apps. We can easily rewrite URLs for client-side routing or set up custom headers.
+- Storage - Store data by using firebase as backend such as images
+- Functions- Automatically run backend code in response to events triggered by Firebase features and HTTPS requests.<br />
 	Among them ,We use firebase hosting and firebase database in our project.
- <br/><br/>1.2.2 **What is a firebase hosting?**
+ <br/><br/>1.2.2 **What is a firebase hosting?**<br /><br />
 The production-grade web content hosted for developers is called as firebase hosting. With the help of hosting, user can quickly and easily deploy web apps or content to the CDN (Global content delivery network) using a single command. Firebase hosting gives user a fast, secure, and reliable way to host the app’s static assets such as HTML, CSS, Javascript, and media files. It is very easy process in Firebase because it contains Custom domain support, and Global CDN. Whether users are sending a simple application landing page or a complex Progress Web App. Hosting gives user the infrastructure, features, and manage static website.
 
 <br/><br/>1.2.3 **What is a firebase database?**
