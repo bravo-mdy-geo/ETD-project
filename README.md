@@ -93,6 +93,30 @@ The proposed project of Electronic Thesis and Dissertation is prescribed as foll
 - View Learn More 
 
 
+2.1 **Software Selection**
+&nbsp;   &nbsp; **Choose Programming Language**
+&nbsp;   &nbsp;   &nbsp;   &nbsp;  We would like to use HTML, CSS, Javascript, jQuery, material design lite in our project because there are a lot of benefits to pick up languages in our windows form application. 
+-	HTML describes the structure of Web pages using markup.
+-	CSS can control the layout of multiple web pages all at once. It describes how HTML elements are to be displayed on screen, paper, or in other media.
+-	Javascript is a high-level and interpreted programming language.
+-	JQuery is a fast, small, and feature-rich JavaScript library.
+-	Material Design Lite makes more liberal use of grid-based layouts, responsive animations and transitions, padding, and depth effects such as lighting and shadows.
+-	They are readily available and easy to access.
+
+**Software Requirements**
+-	Firebase (Database and  Hosting)
+-	Submit Text 3
+-	Git bash
+-	Github
+**Hardware Requirements**
+-	Internet Access
+-	 PC with Windows OS
+-	Mobile Phone
+
+
+
+
+
 
 
 
