@@ -95,7 +95,7 @@ The proposed project of Electronic Thesis and Dissertation is prescribed as foll
 
 
 2.1 **Software Selection** <br /><br />
-&nbsp;   &nbsp**Choose Programming Language** <br />
+&nbsp;   &nbsp; **Choose Programming Language** <br />
 We would like to use HTML, CSS, Javascript, jQuery, material design lite in our project because there are a lot of benefits to pick up languages in our windows form application. 
 -	HTML describes the structure of Web pages using markup.
 -	CSS can control the layout of multiple web pages all at once. It describes how HTML elements are to be displayed on screen, paper, or in other media.
