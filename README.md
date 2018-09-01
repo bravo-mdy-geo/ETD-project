@@ -66,8 +66,10 @@ Project ID	**_Geo Mandalar Invertment & Technology Co.,Ltd Internship_**
 	- Storage - Store data by using firebase as backend such as images
 	- Functions- Automatically run backend code in response to events triggered by Firebase features and HTTPS requests.
 	Among them ,We use firebase hosting and firebase database in our project.
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1.2.2 **What is a firebase hosting?**
 The production-grade web content hosted for developers is called as firebase hosting. With the help of hosting, user can quickly and easily deploy web apps or content to the CDN (Global content delivery network) using a single command. Firebase hosting gives user a fast, secure, and reliable way to host the app’s static assets such as HTML, CSS, Javascript, and media files. It is very easy process in Firebase because it contains Custom domain support, and Global CDN. Whether users are sending a simple application landing page or a complex Progress Web App. Hosting gives user the infrastructure, features, and manage static website.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1.2.3 **What is a firebase database?**
 A database is a collection of information that is organized so that it can be easily accessed, managed and updated. Data gets updated, expanded and deleted as new information is added. 
