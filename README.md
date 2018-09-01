@@ -2,7 +2,7 @@
 Director - **U Ravi Chhabra (CEO of GMIT)** <br/>
 Supervisor - **Dr. Ei Ei Mon (Associated Professor of Computer University(Mdy))** <br/>
 Presented by -<br/>
-            Ma Ei Po Po Aung (Test & Doc)<br/>
+           &nbsp;  Ma Ei Po Po Aung (Test & Doc)<br/>
             Ma April Su (UI/UX)<br/>
             Ma Myo Myo (Dev)<br/>
             Ma Htet Htet Htun (Dev) <br/>
@@ -37,7 +37,7 @@ was not copied from the Internet or other sources.
 
 
 #### Project Details
-Project Title   	**_Electronic Thesis and Dissertation System_**
+Project Title   	**_Electronic Thesis and Dissertation System_** <br/>
 Project ID  	**_Geo Mandalar Invertment & Technology Co.,Ltd Internship_**
 
 1.1 **Introduction**
@@ -83,7 +83,7 @@ perusd from or composed to. When user point the app to the proper data source in
  - To increase sharing and collaboration among university and students
  - To enhance access to university research
 
-1.4	**Scope of Proposed System**
+1.4	**Scope of Proposed System** <br/>
 The proposed project of Electronic Thesis and Dissertation is prescribed as follow;
 - Manage Home, ThesisResource, Publisher, Admin, Search, Learn More
 - View Home
