@@ -135,8 +135,7 @@ The proposed system offers the following advantages:
 -	As mobile tablets use wireless network, they can disconnect with network if Wi Fi fails.
 
 
-**Further Extensions** <br />
-	This application has incompleteness from various view-points. Because our university doesn’t have soft copy. So, we give you abstract of thesis of our university. Various functionalities can be embedded within the project.
+
 
 
 
