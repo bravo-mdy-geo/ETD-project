@@ -53,7 +53,7 @@ Project ID  	**_Geo Mandalar Invertment & Technology Co.,Ltd Internship_**
 
 - The aims of our ETD project is to save time and energy, to reduce paper works and familiar with electronic library.
 
-1.2	**Background of the System**
+1.2	**Background of the System** <br/><br/>
  1.2.1**What is firebase?**
 	- Firebase is a platform that makes developing android apps or web app easier.
 	- It is owned by Google and is easy to Integrate to projects
@@ -93,7 +93,7 @@ The proposed project of Electronic Thesis and Dissertation is prescribed as foll
 - View Learn More 
 
 
-2.1 **Software Selection**
+2.1 **Software Selection** <br /><br />
 &nbsp;   &nbsp; **Choose Programming Language**
 &nbsp;   &nbsp;   &nbsp;   &nbsp;  We would like to use HTML, CSS, Javascript, jQuery, material design lite in our project because there are a lot of benefits to pick up languages in our windows form application. 
 -	HTML describes the structure of Web pages using markup.
