@@ -114,6 +114,32 @@ The proposed project of Electronic Thesis and Dissertation is prescribed as foll
 -	Mobile Phone
 
 
+## Conclusion
+- This system provides users to search easily CU (Mdy) theses from 2008-2016 with abstract. 
+- At admin panel, admin can create, retrieve, update and delete data from firebase database. And also do permissions for login users.
+- Our project has a weakness. It doesn’t show full data of all thesis because our data are collected from CU (Mdy) library and there is no soft copy of theses.
+- But we make our ETD system to find global theses and dissertations for more reference. Users can search 5,111,718 electronic theses and dissertations at Global ETD site where can find any fields that you want.
+- For our project future plan, we aim to do more useful site for our university. We want to make from ETD mini project to CU (Mdy) e-Library.
+
+**Advantages of the Project** <br />
+The proposed system offers the following advantages:
+-	It provides “faster and better” services to users.
+-	This is helpful in assessing what’s in progress, what has written, the writing style, how it was structured, research methods, and which reference were used.
+-	User can satisfy because they can search not only thesis title but also by year.
+-	Assisting postgraduate students to write theses and dissertations.
+-	Provide facility for proper monitoring, reduces paper work and provide data security.
+
+**Disadvantages** <br />
+-	The cost of computer hardware and software programs can be expensive.
+-	As mobile tablets use wireless network, they can disconnect with network if Wi Fi fails.
+
+
+**Further Extensions** <br />
+	This application has incompleteness from various view-points. Because our university doesn’t have soft copy. So, we give you abstract of thesis of our university. Various functionalities can be embedded within the project.
+
+
+
+
 
 
 
