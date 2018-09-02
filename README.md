@@ -1,5 +1,5 @@
 ## Electronic Thesis and Dissertation
-Director - **U Ravi Chhabra (CEO of GMIT)** <br/>
+Director   - **U Ravi Chhabra (CEO of GMIT)** <br/>
 Supervisor - **Dr. Ei Ei Mon (Associated Professor of Computer University(Mdy))** <br/>
 Presented by -<br/>
            &nbsp;     &nbsp;     &nbsp; &nbsp;     &nbsp;     &nbsp;    Ma Ei Po Po Aung (Test & Doc)<br/>
@@ -38,7 +38,7 @@ was not copied from the Internet or other sources.
 
 #### Project Details
 Project Title   	**_Electronic Thesis and Dissertation System_** <br/>
-Project ID  	**_Geo Mandalar Invertment & Technology Co.,Ltd Internship_**
+Project ID  	        **_Geo Mandalar Invertment & Technology Co.,Ltd Internship_**
 
 1.1 **Introduction**
 
