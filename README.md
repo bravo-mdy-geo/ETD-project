@@ -31,7 +31,7 @@ author name, supervisor name and the major. Users can also search books and thes
 
 ## DECLARATION
 
-	We declare that this project report or part of was not a copy of a document done by any organization,
+We declare that this project report or part of was not a copy of a document done by any organization,
 university any other institute or a previous student project group at Computer University (Mandalay) and
 was not copied from the Internet or other sources.
 
