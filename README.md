@@ -1,5 +1,5 @@
 ## Electronic Thesis and Dissertation
-Director - **U Ravi Chhabra (CEO of GMIT)** <br/>
+Director   - **U Ravi Chhabra (CEO of GMIT)** <br/>
 Supervisor - **Dr. Ei Ei Mon (Associated Professor of Computer University(Mdy))** <br/>
 Presented by -<br/>
            &nbsp;     &nbsp;     &nbsp; &nbsp;     &nbsp;     &nbsp;    Ma Ei Po Po Aung (Test & Doc)<br/>
@@ -13,7 +13,7 @@ Presented by -<br/>
 - Electronic version of theses and dissertations are called ETDs. This system is kind of Education website.
 - In our system , users can search theses and dissertations of CU (Mdy) by Year, and can see abstract of the thesis,
 author name, supervisor name and the major. Users can also search books and theses of Otago University and Global ETD for more references.
-- For admin Panel, admins can insert, data into database,delete and retrieve data for database. Users can use our system with both smart phones and computers. 
+- For admin Panel, admins can insert data into database,delete and retrieve data for database. Users can use our system with both smart phones and computers. 
 - For Front End, the system was implemented using material design (HTML, CSS).
 - For Back End, this system was implemented  using javascript and jQuery. And we also used Firebase Hosting and Database.
 
@@ -38,7 +38,7 @@ was not copied from the Internet or other sources.
 
 #### Project Details
 Project Title   	**_Electronic Thesis and Dissertation System_** <br/>
-Project ID  	**_Geo Mandalar Invertment & Technology Co.,Ltd Internship_**
+Project ID  	        **_Geo Mandalar Invertment & Technology Co.,Ltd Internship_**
 
 1.1 **Introduction**
 
@@ -66,10 +66,10 @@ Project ID  	**_Geo Mandalar Invertment & Technology Co.,Ltd Internship_**
 Among them ,We use firebase hosting and firebase database in our project.<br /><br />
 
 1.2.2 **What is a firebase hosting?** <br />
-The production-grade web content hosted for developers is called as firebase hosting. With the help of hosting, user can quickly and easily deploy web apps or content to the CDN (Global content delivery network) using a single command. Firebase hosting gives user a fast, secure, and reliable way to host the app’s static assets such as HTML, CSS, Javascript, and media files. It is very easy process in Firebase because it contains Custom domain support, and Global CDN. Whether users are sending a simple application landing page or a complex Progress Web App. Hosting gives user the infrastructure, features, and manage static website.
+	The production-grade web content hosted for developers is called as firebase hosting. With the help of hosting, user can quickly and easily deploy web apps or content to the CDN (Global content delivery network) using a single command. Firebase hosting gives user a fast, secure, and reliable way to host the app’s static assets such as HTML, CSS, Javascript, and media files. It is very easy process in Firebase because it contains Custom domain support, and Global CDN. Whether users are sending a simple application landing page or a complex Progress Web App. Hosting gives user the infrastructure, features, and manage static website.
 
 <br/>1.2.3 **What is a firebase database?**<br />
-A database is a collection of information that is organized so that it can be easily accessed, managed and updated. Data gets updated, expanded and deleted as new information is added. 
+	A database is a collection of information that is organized so that it can be easily accessed, managed and updated. Data gets updated, expanded and deleted as new information is added. 
 The Firebase Realtime Database is a cloud-hosted database. Data is syned across all clients in realtime, and remains available when the app goes offline.
  Data is stored as JSON and synchronized in realtime to every connected client. When user build cross-platform apps with our iOS, Android, 
 and JavaScript SDKs, all of the clients share one Realtime Database instance and automatically receive updates with the newest data. By utilizing 
@@ -96,7 +96,7 @@ The proposed project of Electronic Thesis and Dissertation is prescribed as foll
 
 2.1 **Software Selection** <br /><br />
  &nbsp;  **Choose Programming Language** <br />
-We would like to use HTML, CSS, Javascript, jQuery, material design lite in our project because there are a lot of benefits to pick up languages in our windows form application. 
+	We would like to use HTML, CSS, Javascript, jQuery, material design lite in our project because there are a lot of benefits to pick up languages in our windows form application. 
 -	HTML describes the structure of Web pages using markup.
 -	CSS can control the layout of multiple web pages all at once. It describes how HTML elements are to be displayed on screen, paper, or in other media.
 -	Javascript is a high-level and interpreted programming language.
