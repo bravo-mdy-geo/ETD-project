@@ -13,7 +13,7 @@ Presented by -<br/>
 - Electronic version of theses and dissertations are called ETDs. This system is kind of Education website.
 - In our system , users can search theses and dissertations of CU (Mdy) by Year, and can see abstract of the thesis,
 author name, supervisor name and the major. Users can also search books and theses of Otago University and Global ETD for more references.
-- For admin Panel, admins can insert, data into database,delete and retrieve data for database. Users can use our system with both smart phones and computers. 
+- For admin Panel, admins can insert data into database,delete and retrieve data for database. Users can use our system with both smart phones and computers. 
 - For Front End, the system was implemented using material design (HTML, CSS).
 - For Back End, this system was implemented  using javascript and jQuery. And we also used Firebase Hosting and Database.
 
