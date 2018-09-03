@@ -20,8 +20,8 @@ author name, supervisor name and the major. Users can also search books and thes
 ## ACKNOWLEDGEMENT
 
 - First of all, we would like to express our very great appreciation to U Kyaw Zwa Soe, Rector of Computer University (Mandalay).
-- We also greatly thank to Dr. San San Tin, Pro-Rector of Computer University (Mandalay).
-- We also thank to our teacher Dr. Myat Thida Kyaw, Head of faculty of Information Science .
+- We also greatly thank to Dr. San San Tint, Pro-Rector of Computer University (Mandalay).
+- We also thank to our teacher Dr. Mya Thida Kyaw, Head of faculty of Information Science .
 - And sincerely thank to our teacher Dr. Aye Aye Chaw, Head of faculty of Computer Science .
 - We also deeply thank to our director U Ravi Chhabra, CEO of GMIT, for his patient training to gain experience in modern software development and trust to give us.
 - And then greatly thank to our supervisor Dr. Ei Ei Mon, Associate Professor of Computer University (Mandalay), for her valuable guidance and patient supervisor, presentation and correctness of the project.
