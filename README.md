@@ -108,7 +108,8 @@ The proposed project of Electronic Thesis and Dissertation is prescribed as foll
 -	Firebase (Database and  Hosting)
 -	Submit Text 3
 -	Git bash
--	Github<br />
+-	Github
+
 **Hardware Requirements**
 -	Internet Access
 -	 PC with Windows OS
@@ -135,27 +136,27 @@ The proposed system offers the following advantages:
 -	As mobile tablets use wireless network, they can disconnect with network if Wi Fi fails.
 
 **Reference**<br />
-•	https://www.codecademy.com/learn/learn-the-command-line
-•	https://www.codecademy.com/learn/learn-git
-•	https://github.com/
-•	https://github.com/mayeedwin/profile
-•	https://vim-adventures.com/
-•	https://try.github.io/levels/1/challenges/1
-•	https://my.wikipedia.org/
-•	https://about.gitlab.com/
-•	http://ask.tiide.org/
-•	https://firebase.google.com/
-•	http://ask.tiide.org/
-•	 https://materializecss.com/
-•	https://gitlab.com/
-•	http://learn.freecodecamp.org/
-•	http://search.ndltd.org/
-•	https://otago.libguides.com/thesisinformation
-•	https://firebase.google.com/docs
-•	https://getmdl.io
-•	https://www.csvjson.com/
-•	https://www.onlineocr.net/
-•	https://www.w3schools.com/
+•	https://www.codecademy.com/learn/learn-the-command-line<br />
+•	https://www.codecademy.com/learn/learn-git<br />
+•	https://github.com/<br />
+•	https://github.com/mayeedwin/profile<br />
+•	https://vim-adventures.com/<br />
+•	https://try.github.io/levels/1/challenges/1<br />
+•	https://my.wikipedia.org/<br />
+•	https://about.gitlab.com/<br />
+•	http://ask.tiide.org/<br />
+•	https://firebase.google.com/<br />
+•	http://ask.tiide.org/<br />
+•	 https://materializecss.com/<br />
+•	https://gitlab.com/<br />
+•	http://learn.freecodecamp.org/<br />
+•	http://search.ndltd.org/<br />
+•	https://otago.libguides.com/thesisinformation<br />
+•	https://firebase.google.com/docs<br />
+•	https://getmdl.io<br />
+•	https://www.csvjson.com/<br />
+•	https://www.onlineocr.net/<br />
+•	https://www.w3schools.com/<br />
 
 
 
