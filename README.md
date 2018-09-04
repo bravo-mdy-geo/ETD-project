@@ -108,7 +108,7 @@ The proposed project of Electronic Thesis and Dissertation is prescribed as foll
 -	Firebase (Database and  Hosting)
 -	Submit Text 3
 -	Git bash
--	Github
+-	Github<br />
 **Hardware Requirements**
 -	Internet Access
 -	 PC with Windows OS
@@ -133,6 +133,30 @@ The proposed system offers the following advantages:
 **Disadvantages** <br />
 -	The cost of computer hardware and software programs can be expensive.
 -	As mobile tablets use wireless network, they can disconnect with network if Wi Fi fails.
+
+**Reference**<br />
+•	https://www.codecademy.com/learn/learn-the-command-line
+•	https://www.codecademy.com/learn/learn-git
+•	https://github.com/
+•	https://github.com/mayeedwin/profile
+•	https://vim-adventures.com/
+•	https://try.github.io/levels/1/challenges/1
+•	https://my.wikipedia.org/
+•	https://about.gitlab.com/
+•	http://ask.tiide.org/
+•	https://firebase.google.com/
+•	http://ask.tiide.org/
+•	 https://materializecss.com/
+•	https://gitlab.com/
+•	http://learn.freecodecamp.org/
+•	http://search.ndltd.org/
+•	https://otago.libguides.com/thesisinformation
+•	https://firebase.google.com/docs
+•	https://getmdl.io
+•	https://www.csvjson.com/
+•	https://www.onlineocr.net/
+•	https://www.w3schools.com/
+
 
 
 
